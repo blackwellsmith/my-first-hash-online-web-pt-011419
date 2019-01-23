@@ -14,6 +14,7 @@ the_manifest = {}
 the_manifest["whale bon corsets"] = "5"
 the_manifest["porcelian vase"] = "2"
 the_manifest["oil paintings"] = "3"
+return the_manifest
 
 end
 
